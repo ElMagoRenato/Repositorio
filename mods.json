@@ -9,6 +9,36 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Create-1.18.2.jar",
 			"sha1": "2e7e55c16164bea60987719d0a5e46746ffa0e98",
 			"size": 14871113
+		},
+		{
+			"name": "Rubidium-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Rubidium-1.18.2.jar",
+			"sha1": "1ce63fa6642a71b2e1b175bbdc0f61ac12669a67",
+			"size": 1342466
+		},
+		{
+			"name": "Jei-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Jei-1.18.2.jar",
+			"sha1": "95ac179f935376235eb35fa6a854b5051590dcfe",
+			"size": 1085640
+		},
+		{
+			"name": "Badpackets-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Badpackets-1.18.2.jar",
+			"sha1": "23a202b8217056e5170709701c0bf021d0e84747",
+			"size": 25707
+		},
+		{
+			"name": "WTHIT-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/WTHIT-1.18.2.jar",
+			"sha1": "b66c89541ceb57998309bbe3a9890d2da72686ef",
+			"size": 397207
+		},
+		{
+			"name": "SecurityCraft-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/SecurityCraft-1.18.2.jar",
+			"sha1": "3229c1d03218bfd5d89f4999295f0d1180f7b55a",
+			"size": 3727038
 		}
 	]
 }
