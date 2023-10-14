@@ -93,6 +93,12 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/FerriteCore-1.18.2.jar",
 			"sha1": "e9e0e711de47112dc53e24dc008da1f598834c4f",
 			"size": 116626
+		},
+		{
+			"name": "CorailT-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/CorailT-1.18.2.jar",
+			"sha1": "e9a8c5c42cccde5e92dece05d5b22f250f892368",
+			"size": 1947722
 		}
 	]
 }
