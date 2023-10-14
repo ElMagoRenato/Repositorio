@@ -111,6 +111,18 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/PlayerRevive-1.18.2.jar",
 			"sha1": "fe88928e9688db5fcf27f26a7efa9f45f6883aff",
 			"size": 5291818
+		},
+		{
+			"name": "OTBYWG-1.18.2.jar",
+			"downloadURL": "https://tuporrowland.gq/files/OTBYWG.jar",
+			"sha1": "4f751bd772232b45bec088103889138852efaa5b",
+			"size": 36569914
+		},
+		{
+			"name": "Terrablender-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Terrablender-1.18.2.jar",
+			"sha1": "b8a025042f55dc78d38a319bd71e3901e9d00331",
+			"size": 96811
 		}
 	]
 }
