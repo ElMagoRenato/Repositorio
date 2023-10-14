@@ -99,6 +99,18 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/CorailT-1.18.2.jar",
 			"sha1": "e9a8c5c42cccde5e92dece05d5b22f250f892368",
 			"size": 1947722
+		},
+		{
+			"name": "CreativeCore-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/CreativeCore-1.18.2.jar",
+			"sha1": "b9fa2c5b825436c04bb0f59aa3b2fa7be698687d",
+			"size": 857653
+		},
+		{
+			"name": "PlayerRevive-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/PlayerRevive-1.18.2.jar",
+			"sha1": "fe88928e9688db5fcf27f26a7efa9f45f6883aff",
+			"size": 5291818
 		}
 	]
 }
