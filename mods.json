@@ -45,6 +45,24 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Rechiseled-1.18.2.jar",
 			"sha1": "fb75513de3836177bf51f7802bf8e6ff46b4e03a",
 			"size": 3277613
+		},
+		{
+			"name": "SMConfig-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/SMConfig-1.18.2.jar",
+			"sha1": "bfaa32bf5ef96fffa0d6bb329da00b33709fc5b3",
+			"size": 206747
+		},
+		{
+			"name": "SMCore-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/SMCore-1.18.2.jar",
+			"sha1": "0cf519fc406238c83da176ca091d50d6eec4932f",
+			"size": 473780
+		},
+		{
+			"name": "Fusion-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Fusion-1.18.2.jar",
+			"sha1": "f850d38a36535ad1bb358f7d5b6d9f3e85b0b72a",
+			"size": 176393
 		}
 	]
 }
