@@ -63,6 +63,24 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Fusion-1.18.2.jar",
 			"sha1": "f850d38a36535ad1bb358f7d5b6d9f3e85b0b72a",
 			"size": 176393
+		},
+		{
+			"name": "Journeymap-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Journeymap-1.18.2.jar",
+			"sha1": "901f51f13efa251f539c32700c1256d68881985e",
+			"size": 7083711
+		},
+		{
+			"name": "SophisticatedBack-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/SophisticatedBack-1.18.2.jar",
+			"sha1": "f163eae31ec6f7da16f015da5c259181d90b7bd1",
+			"size": 783965
+		},
+		{
+			"name": "SophisticatedCore-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/SophisticatedCore-1.18.2.jar",
+			"sha1": "44a8ceb58e2c9be2ec97a8f87940266c4061ff29",
+			"size": 1005631
 		}
 	]
 }
