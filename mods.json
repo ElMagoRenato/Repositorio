@@ -39,6 +39,11 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/SecurityCraft-1.18.2.jar",
 			"sha1": "3229c1d03218bfd5d89f4999295f0d1180f7b55a",
 			"size": 3727038
-		}
+		},
+		{
+			"name": "Rechiseled-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Rechiseled-1.18.2.jar",
+			"sha1": "fb75513de3836177bf51f7802bf8e6ff46b4e03a",
+			"size": 3277613
 	]
 }
