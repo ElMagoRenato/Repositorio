@@ -123,6 +123,12 @@
 			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Terrablender-1.18.2.jar",
 			"sha1": "b8a025042f55dc78d38a319bd71e3901e9d00331",
 			"size": 96811
+		},
+		{
+			"name": "Saturn-1.18.2.jar",
+			"downloadURL": "https://github.com/ElMagoRenato/Repositorio/raw/main/Saturn-1.18.2.jar",
+			"sha1": "51e8e199055dfa706261128b2ce6f3063a269e34",
+			"size": 28493
 		}
 	]
 }
